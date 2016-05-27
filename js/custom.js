@@ -1115,20 +1115,17 @@ function initialize(id) {
     "use strict";
     var image = 'images/icon-map.png';
 
-    var overlayTitle = 'Agencies';
+    var overlayTitle = 'Holes For Heroes';
 
     var locations = [
         //point number 1
-        ['Madison Square Garden', '4 Pennsylvania Plaza, New York, NY'],
+        ['6th Annual NJ PBA Golf Outing!', 'New Jersey'],
 
         //point number 2
-        ['Best town ever', 'Santa Cruz', 36.986021, -122.02216399999998],
+        ['14th Annual AZ State Golf Outing!', 'Arizona'],
 
         //point number 3 
-        ['Located in the Midwestern United States', 'Kansas'],
-
-        //point number 4
-        ['I\'ll definitly be there one day', 'Chicago', 41.8781136, -87.62979819999998] 
+        ['Spring Classic', 'California'], 
     ];
 
 /*** DON'T CHANGE ANYTHING PASSED THIS LINE ***/
